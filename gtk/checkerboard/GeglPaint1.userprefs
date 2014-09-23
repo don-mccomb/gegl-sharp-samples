@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GeglPaint1/MainWindow.cs">
+    <Files>
+      <File FileName="GeglPaint1/Program.cs" Line="1" Column="1" />
+      <File FileName="GeglPaint1/MainWindow.cs" Line="73" Column="62" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="GeglPaint1/Program.cs" line="79" offsetX="1326" offsetY="1404" expression="GeglPaint1.MainClass.s" liveUpdate="False" />
+    <Watch file="GeglPaint1/Program.cs" line="89" offsetX="966" offsetY="1584" expression="b" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
